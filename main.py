@@ -63,7 +63,7 @@ def click(x, y):
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
 
 def perform_click_iso():
-    image1_path = 'iso.png'
+    image1_path = 'images/iso.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -95,7 +95,7 @@ def perform_click_iso():
 
 
 def perform_click_vyse():
-    image1_path = 'vyse.png'
+    image1_path = 'images/vyse.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -126,7 +126,7 @@ def perform_click_vyse():
             return
 
 def perform_click_reyna():
-        image1_path = 'reyna.png'
+        image1_path = 'images/reyna.png'
         num_clicks = 5
 
         while num_clicks > 0:
@@ -156,7 +156,7 @@ def perform_click_reyna():
             
 
 def perform_click_jett():
-    image2_path = 'jett.png'
+    image2_path = 'images/jett.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -188,7 +188,7 @@ def perform_click_jett():
         
 
 def perform_click_phoenix():
-    image3_path = 'phoenix.png'
+    image3_path = 'images/phoenix.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -220,7 +220,7 @@ def perform_click_phoenix():
         
 
 def perform_click_raze():
-    image4_path = 'raze.png'
+    image4_path = 'images/raze.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -252,7 +252,7 @@ def perform_click_raze():
         
 
 def perform_click_neon():
-    image5_path = 'neon.png'
+    image5_path = 'images/neon.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -284,7 +284,7 @@ def perform_click_neon():
         
 
 def perform_click_yoru():
-    image6_path = 'yoru.png'
+    image6_path = 'images/yoru.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -312,7 +312,7 @@ def perform_click_yoru():
         
 
 def perform_click_brimstone():
-    image7_path = 'brimstone.png'
+    image7_path = 'images/brimstone.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -344,7 +344,7 @@ def perform_click_brimstone():
         
 
 def perform_click_omen():
-    image8_path = 'omen.png'
+    image8_path = 'images/omen.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -376,7 +376,7 @@ def perform_click_omen():
         
 
 def perform_click_viper():
-    image9_path = 'viper.png'
+    image9_path = 'images/viper.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -408,7 +408,7 @@ def perform_click_viper():
         
 
 def perform_click_harbor():
-    image10_path = 'harbor.png'
+    image10_path = 'images/harbor.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -440,7 +440,7 @@ def perform_click_harbor():
         
 
 def perform_click_astra():
-    image11_path = 'astra.png'
+    image11_path = 'images/astra.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -471,7 +471,7 @@ def perform_click_astra():
             return
         
 def perform_click_skye():
-    image12_path = 'skye.png'
+    image12_path = 'images/skye.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -503,7 +503,7 @@ def perform_click_skye():
         
 
 def perform_click_breach():
-    image13_path = 'breach.png'
+    image13_path = 'images/breach.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -539,7 +539,7 @@ def perform_click_breach():
         
 
 def perform_click_kayo():
-    image14_path = 'kayo.png'
+    image14_path = 'images/kayo.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -571,7 +571,7 @@ def perform_click_kayo():
         
 
 def perform_click_fade():
-    image15_path = 'fade.png'
+    image15_path = 'images/fade.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -603,7 +603,7 @@ def perform_click_fade():
         
 
 def perform_click_sova():
-    image16_path = 'sova.png'
+    image16_path = 'images/sova.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -635,7 +635,7 @@ def perform_click_sova():
         
 
 def perform_click_gekko():
-    image17_path = 'gekko.png'
+    image17_path = 'images/gekko.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -667,7 +667,7 @@ def perform_click_gekko():
         
 
 def perform_click_sage():
-    image18_path = 'sage.png'
+    image18_path = 'images/sage.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -699,7 +699,7 @@ def perform_click_sage():
         
 
 def perform_click_killjoy():
-    image19_path = 'killjoy.png'
+    image19_path = 'images/killjoy.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -731,7 +731,7 @@ def perform_click_killjoy():
         
 
 def perform_click_cypher():
-    image20_path = 'cypher.png'
+    image20_path = 'images/cypher.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -763,7 +763,7 @@ def perform_click_cypher():
         
 
 def perform_click_chamber():
-    image21_path = 'chamber.png'
+    image21_path = 'images/chamber.png'
     num_clicks = 5
 
     while num_clicks > 0:
@@ -795,7 +795,7 @@ def perform_click_chamber():
         
 
 def perform_click_deadlock():
-    image22_path = 'deadlock.png'
+    image22_path = 'images/deadlock.png'
 
 
     num_clicks = 5
